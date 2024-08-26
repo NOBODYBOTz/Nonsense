@@ -1,1 +1,1 @@
-client_key = "3f5ecdec24db15e6a67c57a2b908461d"
+client_key = ""
